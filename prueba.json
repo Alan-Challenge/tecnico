@@ -1,0 +1,84 @@
+{
+ "id": "16c52e47f5b16c75",
+ "threadId": "16c52e41f96d68b0",
+ "labelIds": [
+  "UNREAD",
+  "IMPORTANT",
+  "SENT",
+  "INBOX"
+ ],
+ "snippet": "DevOps prueba",
+ "historyId": "3462",
+ "internalDate": "1564758800000",
+ "payload": {
+  "partId": "",
+  "mimeType": "multipart/alternative",
+  "filename": "",
+  "headers": [
+   {
+    "name": "MIME-Version",
+    "value": "1.0"
+   },
+   {
+    "name": "Date",
+    "value": "Fri, 2 Aug 2019 12:13:20 -0300"
+   },
+   {
+    "name": "Message-ID",
+    "value": "\u003cCAHABRVfpToGiWae107jvp00WY7yU_SBvfkhfj5+98AvgKTRQ=g@mail.gmail.com\u003e"
+   },
+   {
+    "name": "Subject",
+    "value": "Test unit"
+   },
+   {
+    "name": "From",
+    "value": "\"Challenge Técnico\" \u003cchallenge.tecnico.alan@gmail.com\u003e"
+   },
+   {
+    "name": "To",
+    "value": "\"Challenge Técnico\" \u003cchallenge.tecnico.alan@gmail.com\u003e"
+   },
+   {
+    "name": "Content-Type",
+    "value": "multipart/alternative; boundary=\"0000000000009076df058f23cc6c\""
+   }
+  ],
+  "body": {
+   "size": 0
+  },
+  "parts": [
+   {
+    "partId": "0",
+    "mimeType": "text/plain",
+    "filename": "",
+    "headers": [
+     {
+      "name": "Content-Type",
+      "value": "text/plain; charset=\"UTF-8\""
+     }
+    ],
+    "body": {
+     "size": 15,
+     "data": "RGV2T3BzIHBydWViYQ0K"
+    }
+   },
+   {
+    "partId": "1",
+    "mimeType": "text/html",
+    "filename": "",
+    "headers": [
+     {
+      "name": "Content-Type",
+      "value": "text/html; charset=\"UTF-8\""
+     }
+    ],
+    "body": {
+     "size": 36,
+     "data": "PGRpdiBkaXI9Imx0ciI-RGV2T3BzIHBydWViYTwvZGl2Pg0K"
+    }
+   }
+  ]
+ },
+ "sizeEstimate": 631
+}
